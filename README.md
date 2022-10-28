@@ -2,7 +2,7 @@
 This is a simple command line app that allows you to play the letters round from Countdown.
 
 ## Launch
-This requires NPM and Nodejs. From the command line, navigate to the directory containing the gameStart.js file and run it using <code>node gameStart.js</code>.
+This requires NPM and Nodejs. From the command line, navigate to the directory containing the gameStart.js file and run <code>npm install</code>, then run it using <code>node gameStart.js</code>.
 
 
 ## General Info
