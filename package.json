@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "an-array-of-english-words": "^2.0.0",
+    "mocha": "^10.1.0"
+  },
+  "name": "countdown-project",
+  "version": "1.0.0",
+  "main": "challenge.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
